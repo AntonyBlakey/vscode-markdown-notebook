@@ -134,5 +134,6 @@ const ALL_LANGUAGES = [
 	'xml',
 	'xsl',
 	'yaml',
-	'github-issues'
+	'github-issues',
+	'stpro'
 ];
